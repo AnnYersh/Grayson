@@ -127,10 +127,10 @@ ul {
 }
 
 .header__content-title {
-    color: purple;
+    color: white;
     font-family: 'PR';
     font-size: 50px;
-    background: black;
+    background: rgba(0, 0, 0, 0.70);;
     padding: 16px 60px;
 }
 
